@@ -96,10 +96,6 @@ The kind of bugs you only find when you throw real malware samples at it.
     Native hex viewer, Capstone disassembler, PE analyzer, integrated debugger.<br>
     Every binding, every pipeline. Built to rival industry standards.
   </p>
-
-  <br>
-
-  <p><em>⚠️ Also leading private work on high-performance commercial systems — POS (Go/Rust) and logistics platforms.</em></p>
 </div>
 
 ---
