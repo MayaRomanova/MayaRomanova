@@ -71,6 +71,15 @@
 </div>
 
 ---
+## ~ Active Work ~
+
+**[HexCore Helix](https://github.com/AkashaCorporation/HikariSystem-HexCore)**
+— Decompilation engine built on LLVM/MLIR.
+
+I work on the C++23 pipeline: pass design, IR correctness, and output quality.
+Recent focus has been on calling convention recovery, control-flow structuring,
+and fixing some fun LLVM abort() edge cases in Remill-lifted IR.
+The kind of bugs you only find when you throw real malware samples at it.
 
 <div align="center">
   <h2>~ HikariSystem Projects ~</h2>
