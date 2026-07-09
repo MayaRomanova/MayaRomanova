@@ -5,12 +5,13 @@
 
   <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a78bfa&size=30&center=true&vCenter=true&width=1000&lines=Maya+Romanova;Security+Engineer+%26+Systems+Architect;From+binaries+to+backends,+I+own+the+stack.;HikariSystem+Core+Team)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a78bfa&size=30&center=true&vCenter=true&width=1000&lines=Maya+Romanova%2C+Ph.D.;Security+Engineer+%26+Systems+Architect;From+binaries+to+backends%2C+I+own+the+stack.;HikariSystem+Core+Team)](https://git.io/typing-svg)
 
   <br>
 
   <img src="https://img.shields.io/badge/Role-Security_Engineer_%26_Architect-0d1117?style=for-the-badge&color=a78bfa" />
   <img src="https://img.shields.io/badge/Focus-Low_Level_%7C_Threat_Intel_%7C_Systems-0d1117?style=for-the-badge&color=6d28d9" />
+  <img src="https://img.shields.io/badge/Ph.D.-Computer_Science-0d1117?style=for-the-badge&color=a78bfa" />
 </div>
 
 ---
@@ -18,12 +19,31 @@
 <div align="center">
   <h2>~ About Me ~</h2>
   <p>
-    I'm <strong>Maya</strong> — a Security Engineer with a thing for systems that most people refuse to touch.<br><br>
-    My day-to-day lives somewhere between <strong>reverse engineering</strong>, <strong>threat intelligence</strong>,
+    I'm <strong>Maya</strong> — a Security Engineer and Ph.D. in Computer Science, with a thing for systems
+    that most people refuse to touch.<br><br>
+    My research and engineering work center on <strong>MLIR</strong> and compiler infrastructure, which feeds
+    directly into my day-to-day between <strong>reverse engineering</strong>, <strong>threat intelligence</strong>,
     and architecting the kind of tooling that doesn't exist yet — so I build it.<br><br>
     Currently deep in the <strong>HikariSystem</strong> ecosystem: a suite of offensive security and low-level
     engineering tools I've been quietly building for a while now.
     From N-API native modules to ransomware analysis pipelines — if it's close to the metal, I'm there.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>~ Academic Background ~</h2>
+  <br>
+  <img src="https://img.shields.io/badge/Ph.D.-Computer_Science-a78bfa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research_Focus-MLIR_%7C_Compilers-6d28d9?style=for-the-badge" />
+  <br><br>
+  <p>
+    Ph.D. in Computer Science, conducted at <strong>TPU (Tomsk Polytechnic University)</strong>, Tomsk — as a
+    foreign researcher, with a focus on MLIR and compiler/IR infrastructure.<br><br>
+    Also completed academic coursework at universities in Brazil, though those programs leaned outside my
+    current specialization — the depth in MLIR, compilers, and low-level systems comes primarily from the
+    doctoral work in Tomsk and from applied work on HexCore.
   </p>
 </div>
 
